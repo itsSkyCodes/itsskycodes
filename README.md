@@ -28,7 +28,7 @@ const ShyamKumarYadav = {
     'RAG pipelines',
   ],
   contact: 'shyamsky1914@gmail.com',
-  portfolio: 'https://github.com/itsSkyCodes',
+  portfolio: 'https://its-sky-portfolio.vercel.app',
 };
 ```
 
@@ -37,7 +37,7 @@ const ShyamKumarYadav = {
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kumar-yadav-5827431a6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsSkyCodes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://its-sky-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsky1914@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsSkyCodes)
 
@@ -141,7 +141,7 @@ Member and admin booking workflows with real-time class availability — NestJS,
 
 ### 👀 Thanks for visiting — let's build something that matters.
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsSkyCodes)
+[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://its-sky-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsky1914@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kumar-yadav-5827431a6)
 
