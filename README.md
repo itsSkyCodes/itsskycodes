@@ -1,8 +1,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=220&section=header&text=Shyam%20Kumar%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20NestJS%20%C2%B7%20TypeScript%20%C2%B7%20GenAI%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=18&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Shyam+Kumar+Yadav+%F0%9F%91%8B;Full-Stack+Software+Developer+%40+Luminoguru+%F0%9F%8F%A2;NestJS+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%E2%9A%A1;Building+Multi-Tenant+SaaS+at+Scale+(20%2B+Tenants)+%F0%9F%9A%80;GenAI+%26+Agentic+Pipelines+(CrewAI+%2B+Pinecone+RAG)+%F0%9F%A4%96;High-Performance+APIs+%C2%B7+Real-Time+Systems+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Shyam+Kumar+Yadav+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;Open+to+Work+%7C+Software+Engineer+%F0%9F%9F%A2;NestJS+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%E2%9A%A1;Building+Multi-Tenant+SaaS+at+Scale+(20%2B+Tenants)+%F0%9F%9A%80;GenAI+%26+Agentic+Pipelines+(CrewAI+%2B+Pinecone+RAG)+%F0%9F%A4%96;High-Performance+APIs+%C2%B7+Real-Time+Systems+%F0%9F%94%A5)
 
-![](https://komarev.com/ghpvc/?username=itsskycodes&label=Profile+Views&color=0e75b6&style=for-the-badge)![](https://img.shields.io/github/followers/itsskycodes?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117)![](https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117)![](https://img.shields.io/badge/Based%20In-Chandigarh%2C%20India%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117)
+![](https://komarev.com/ghpvc/?username=itsskycodes&label=Profile+Views&color=0e75b6&style=for-the-badge)![](https://img.shields.io/github/followers/itsskycodes?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117)![](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=0d1117)![](https://img.shields.io/badge/Based%20In-Chandigarh%2C%20India%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117)
 
 ---
 
@@ -13,12 +13,13 @@ Full-stack software engineer with 4+ years of experience shipping production sys
 ```typescript
 const ShyamKumarYadav = {
   location: 'Chandigarh, India',
-  role: 'Software Engineer @ Luminoguru Pvt. Ltd., Mohali',
+  role: 'Full-Stack Software Engineer (Ex-Luminoguru)',
+  status: 'Open to Work / Actively Seeking Full-Time Opportunities',
   experience: '4+ years shipping production systems end-to-end',
   education:
     'MCA — Lovely Professional University (2021–2023) | BCA — Panjab University (2017–2020)',
   currentFocus: [
-    'Leading architecture of multi-tenant SaaS (MyRelma) — 20+ tenants, 99%+ uptime',
+    'Architecting multi-tenant SaaS (MyRelma) — 20+ tenants, 99%+ uptime',
     'Agentic AI workflows & RAG pipelines with CrewAI, OpenAI GPT-4o & Pinecone',
     'High-throughput real-time systems (SSE, WebSockets, BullMQ)',
   ],
@@ -54,13 +55,14 @@ const ShyamKumarYadav = {
 ## 💼 Work Experience
 
 ### **Software Engineer** — [Luminoguru Pvt. Ltd.](https://luminoguru.com/) *(Mohali, India)*
-*Jan 2022 – Present*
+*Jan 2022 – Sep 2026*  
+*(Promoted from Associate Software Engineer)*
 
 #### 🚀 **MyRelma — Multi-Tenant Career-Coaching SaaS Platform**
 `NestJS` · `TypeScript` · `PostgreSQL` · `TypeORM` · `Redis` · `BullMQ` · `OpenAI GPT-4o` · `CrewAI` · `Pinecone` · `Pusher` · `Cloudflare R2` · `Google APIs` · `LinkedIn API`  
-*Jun 2025 – Present*
+*Jun 2025 – Sep 2026*
 
-- **End-to-end SaaS architecture:** Built the platform from zero to production: a 27-module NestJS REST API, PostgreSQL/TypeORM data modeling, and Redis/BullMQ background processing across 10 job queues. It serves **20+ tenant organizations** at **99%+ uptime**, and I lead a 3-person engineering team.
+- **End-to-end SaaS architecture:** Built the platform from zero to production: a 27-module NestJS REST API, PostgreSQL/TypeORM data modeling, and Redis/BullMQ background processing across 10 job queues. It serves **20+ tenant organizations** at **99%+ uptime**, and led a 3-person engineering team.
 - **Generative AI career assistant:** Engineered a FastAPI + CrewAI + OpenAI GPT-4o + Pinecone RAG microservice with 6 production API endpoints covering multi-format resume parsing (PDF, DOCX, JPEG, PNG), section-by-section rewriting, full resume audits with scoring, SSE-streamed conversational chat (LLM classifier routing across 9 message types), and AI email drafting. Includes structured Pydantic outputs, token-usage tracking, and per-user rate limiting.
 - **AI email composition & integrations:** Built an OpenAI-powered assistant that streams context-aware, thread-aware drafts via SSE. Integrated Google Workspace (Gmail sync, Contacts, Calendar, Tasks) and LinkedIn OAuth.
 - **Security & reliability:** Implemented Redis-backed distributed rate limiting with Postgres failover, per-email auth throttling against OTP brute-force, Helmet HTTP hardening, TLS/CORS enforcement, and graceful shutdown handling.
